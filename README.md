@@ -1,15 +1,4 @@
 # Hi there 👋
-
-
-<p align="center">
-  <a href="https://github.com/mghebro">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mghebro&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Luka's GitHub Stats" />
-  </a>
-  <a href="https://github.com/mghebro">
-    <img src="https://streak-stats.demolab.com/?user=mghebro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
 ---
 ```csharp
 public class Giorgi : FullStackDeveloper
