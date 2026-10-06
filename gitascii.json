@@ -1,0 +1,233 @@
+{
+  "widgets": [
+    {
+      "instanceId": "widget_1791317368475",
+      "widgetId": "header",
+      "name": "Header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {
+        "accentColor": "#FF3B3B",
+        "hideBorder": true,
+        "backgroundColor": "transparent"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    },
+    {
+      "instanceId": "widget_1791318321489",
+      "widgetId": "codeweb-retro-grid",
+      "name": "Codeweb-retro-grid Widget",
+      "position": {
+        "x": 0,
+        "y": 98
+      },
+      "size": {
+        "width": 800,
+        "height": 260
+      },
+      "config": {
+        "selectedTechs": [
+          "js",
+          "ts",
+          "html",
+          "css",
+          "cs",
+          "graphql",
+          "bash",
+          "nextjs",
+          "react",
+          "vue",
+          "angular",
+          "tailwind",
+          "bootstrap",
+          "sass",
+          "vite",
+          "threejs",
+          "postgres",
+          "github",
+          "git",
+          "docker",
+          "kubernetes",
+          "netlify",
+          "vercel",
+          "postman",
+          "linux",
+          "vscode",
+          "pnpm",
+          "npm",
+          "mysql",
+          "mongodb",
+          "supabase",
+          "firebase",
+          "redis",
+          "prisma",
+          "sqlite",
+          "mui"
+        ],
+        "technologies": [
+          "js",
+          "ts",
+          "html",
+          "css",
+          "cs",
+          "graphql",
+          "bash",
+          "nextjs",
+          "react",
+          "vue",
+          "angular",
+          "tailwind",
+          "bootstrap",
+          "sass",
+          "vite",
+          "threejs",
+          "postgres",
+          "github",
+          "git",
+          "docker",
+          "kubernetes",
+          "netlify",
+          "vercel",
+          "postman",
+          "linux",
+          "vscode",
+          "pnpm",
+          "npm",
+          "mysql",
+          "mongodb",
+          "supabase",
+          "firebase",
+          "redis",
+          "prisma",
+          "sqlite",
+          "mui"
+        ],
+        "displayMode": "logo",
+        "animationType": "none",
+        "animationPreviewKey": 2,
+        "staticMode": false,
+        "accentColor": "#ff3366",
+        "secondaryColor": "#ffff55",
+        "hideBorder": true,
+        "hideDecorations": false,
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    },
+    {
+      "instanceId": "widget_1791319783261",
+      "widgetId": "codeweb-showcase-cards",
+      "name": "Codeweb-showcase-cards Widget",
+      "position": {
+        "x": 0,
+        "y": 374
+      },
+      "size": {
+        "width": 800,
+        "height": 220
+      },
+      "config": {
+        "terminalText": "> I don't seek collaborations. I seek equals.",
+        "leftGifUrl": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVqYXF2Zzh5YjhxMDh0bW50aW0zazZhNjBzdmlvdWozc25uaWxsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hroYboEQTGbk8HohbJ/giphy.gif",
+        "card1GifUrl": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U1Njd0YnN5MGtnMng0MGFhbTZpb3A1emM1bHkzN2RkbnhpaGRkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TgmSMsUvvRfbivssMz/giphy.gif"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    },
+    {
+      "instanceId": "widget_1791321556519",
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 0,
+        "y": 610
+      },
+      "size": {
+        "width": 780,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Header",
+        "modeTag": "198X MODE",
+        "secondaryColor": "#FF3B3B",
+        "ledColor": "#ff5555",
+        "textColor": "#B6FF2E"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "widget_1791322419362",
+      "widgetId": "asciiprofile-heatmap",
+      "name": "Asciiprofile-heatmap Widget",
+      "position": {
+        "x": 0,
+        "y": 1027
+      },
+      "size": {
+        "width": 800,
+        "height": 240
+      },
+      "config": {
+        "accentColor": "#ffa657",
+        "backgroundColor": "transparent"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1791322461901",
+      "widgetId": "codeweb-social-badge",
+      "name": "Codeweb-social-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 1283
+      },
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {
+        "platforms": [
+          "github",
+          "gmail",
+          "linkedin"
+        ],
+        "renderMode": "multi",
+        "gridColumns": 3,
+        "label_github": "mghebro",
+        "showText": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'Inter Tight', sans-serif",
+    "borderRadius": 0,
+    "padding": 12,
+    "themeMode": "dark",
+    "templateStyle": "blank",
+    "transparentBackground": true
+  },
+  "templateId": "blank"
+}
