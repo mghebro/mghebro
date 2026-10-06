@@ -210,7 +210,7 @@
         ],
         "renderMode": "multi",
         "gridColumns": 3,
-        "label_github": "mghebro",
+        "label_github": "https://github.com/mghebro",
         "showText": false
       },
       "locked": false,
@@ -233,7 +233,7 @@
   "templateId": "blank",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791322909649_7e0r4",
-    "updatedAt": "2026-10-06T21:41:52.544Z"
+    "revision": "rev_1791322992273_af2y9",
+    "updatedAt": "2026-10-06T21:43:15.145Z"
   }
 }
