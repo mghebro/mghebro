@@ -1,4 +1,5 @@
 {
+  "username": "mghebro",
   "widgets": [
     {
       "instanceId": "widget_1791317368475",
@@ -161,7 +162,7 @@
         "accentColor": "#55ffff",
         "customTitle": "Surveillance Header",
         "modeTag": "198X MODE",
-        "secondaryColor": "#FF3B3B",
+        "secondaryColor": "#ff00ff",
         "ledColor": "#ff5555",
         "textColor": "#B6FF2E"
       },
@@ -229,5 +230,10 @@
     "templateStyle": "blank",
     "transparentBackground": true
   },
-  "templateId": "blank"
+  "templateId": "blank",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1791322909649_7e0r4",
+    "updatedAt": "2026-10-06T21:41:52.544Z"
+  }
 }
